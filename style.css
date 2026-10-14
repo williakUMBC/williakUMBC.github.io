@@ -1,7 +1,7 @@
 main{
 	display:block
 }
-main.content{
+main #content{
 	vertical-align:middle;
 	margin-left:auto;
 	margin-right:auto
